@@ -1,0 +1,19 @@
+
+.Profile{
+    width: 250px;
+    margin:20px ;
+}
+
+.Profile a{ 
+    display:flex; 
+    align-items:center; 
+    gap:18px;
+     color:black; 
+     text-decoration: none;
+      border-radius: 99px;
+}
+.Profile a:hover{
+    text-decoration: none;
+    color: black;
+    background-color: rgba(233, 232, 232, 0.459);
+}

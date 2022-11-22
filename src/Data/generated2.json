@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "633c9a522a171ac9aede9178",
+    "tweet":
+      {
+        "tweettime": "7h",
+        "reply": 307,
+        "retweet": 187,
+        "like": 271,
+        "tweet": "Ad enim dolore enim esse cupidatat pariatur id veniam irure consectetur ullamco labore irure commodo."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Kristen Frederick",
+        "username": "@WigginsLong"
+      }
+    
+  },
+  {
+    "_id": "633c9a52fdb3e0cf13927507",
+    "tweet": 
+      {
+        "tweettime": "18h",
+        "reply": 34,
+        "retweet": 82,
+        "like": 62,
+        "tweet": "Ad ipsum eiusmod mollit consequat duis do et aliqua ex magna esse."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Schwartz Wheeler",
+        "username": "@GreerMoore"
+      }
+    
+  },
+  {
+    "_id": "633c9a52986cea63af3dbc19",
+    "tweet": 
+      {
+        "tweettime": "21h",
+        "reply": 248,
+        "retweet": 67,
+        "like": 157,
+        "tweet": "Laborum occaecat aliquip dolor commodo do amet adipisicing proident est ipsum."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Luann Odonnell",
+        "username": "@RichmondFrench"
+      }
+    
+  },
+  {
+    "_id": "633c9a522c4de37677db1e00",
+    "tweet": 
+      {
+        "tweettime": "5h",
+        "reply": 276,
+        "retweet": 308,
+        "like": 116,
+        "tweet": "Aliqua ullamco consectetur minim esse."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Florine Meyer",
+        "username": "@LeilaOsborne"
+      }
+    
+  },
+  {
+    "_id": "633c9a521f351fef36946dd9",
+    "tweet": 
+      {
+        "tweettime": "17h",
+        "reply": 375,
+        "retweet": 285,
+        "like": 324,
+        "tweet": "Ex sunt quis ipsum velit fugiat amet nisi magna cillum veniam aute nulla."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Leach Lancaster",
+        "username": "@MckinneyMack"
+      }
+    
+  },
+  {
+    "_id": "633c9a520e8435a9bc657f53",
+    "tweet": 
+      {
+        "tweettime": "2h",
+        "reply": 373,
+        "retweet": 295,
+        "like": 269,
+        "tweet": "Anim in id ad reprehenderit veniam."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Sellers Estrada",
+        "username": "@MorrisonWilder"
+      }
+    
+  },
+  {
+    "_id": "633c9a52478bad01bf807dde",
+    "tweet": 
+      {
+        "tweettime": "18h",
+        "reply": 468,
+        "retweet": 38,
+        "like": 98,
+        "tweet": "Voluptate nulla qui ad enim id."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Frank Benson",
+        "username": "@ClayMoses"
+      }
+    
+  },
+  {
+    "_id": "633c9a5282a352b35d8b5a77",
+    "tweet": 
+      {
+        "tweettime": "12h",
+        "reply": 240,
+        "retweet": 24,
+        "like": 110,
+        "tweet": "Ad laboris minim Lorem quis id ut."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Bernadine Odom",
+        "username": "@TannerWilson"
+      }
+    
+  },
+  {
+    "_id": "633c9a522f7480930d4cbe9a",
+    "tweet": 
+      {
+        "tweettime": "5h",
+        "reply": 374,
+        "retweet": 4,
+        "like": 221,
+        "tweet": "Consequat culpa aliquip eu aute ad."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Barbara Garner",
+        "username": "@MclaughlinLarsen"
+      }
+    
+  },
+  {
+    "_id": "633c9a5290544275878fe3a1",
+    "tweet": 
+      {
+        "tweettime": "1h",
+        "reply": 408,
+        "retweet": 371,
+        "like": 241,
+        "tweet": "Deserunt do labore commodo eu et mollit commodo commodo cupidatat tempor ex eu."
+      }
+    ,
+    "profile": 
+      {
+        "profilename": "Mccray Madden",
+        "username": "@WallSears"
+      }
+    
+  }
+]

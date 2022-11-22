@@ -1,0 +1,7 @@
+.RightBar{
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
